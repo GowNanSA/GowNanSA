@@ -1,12 +1,19 @@
-## Hi there 👋
+## Greetings Mortals :>
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Let's connect on [Linkedin!](https://www.linkedin.com/in/gowri-nanda100/)
+# About Me <3 
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+I am Gowri (She/Her), a current computer science student! I mainly enjoy doing research and learning new things, as well as using computer science in other fields of science and research. Right now, I am experimenting a lot with different projects and work! 
 
+
+
+- 📫 How to reach me: Let's connect on [LinkedIn!](https://www.linkedin.com/in/gowri-nanda100/)
+
+
+
+## 🔭 My Main Languages 
+
+![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GowNanSA&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+  
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=GowNanSA&theme=discord&no-frame=true&no-bg=false&margin-w=4)
