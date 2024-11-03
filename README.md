@@ -10,6 +10,12 @@ I am Gowri (She/Her), a current computer science student! I mainly enjoy doing r
 
 
 
+## Current Projects 
+
+<a href="https://github.com/GowNanSA">
+    <img src="https://ghchart.rshah.org/GowNanSA" alt="Gowri's GitHub Contribution Chart">
+</a>
+
 ## 🔭 My Main Languages 
 
 ![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GowNanSA&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
