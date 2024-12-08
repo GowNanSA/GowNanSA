@@ -17,11 +17,19 @@ I mostly post my schoolwork and personal code projects here which may be private
     <img src="https://ghchart.rshah.org/GowNanSA" alt="Gowri's GitHub Contribution Chart">
 </a>
 
+Other Projects: 
+<p>
 [Break Through Tech Axle Informatics Bioinformatics CWL Pipeline Generation](https://github.com/gracwng/LLM-Bioinformatic-Pipeline-Generation/tree/main) 
+    
 [Socket Messaging App](https://github.com/GowNanSA/a-silly-socket-messaging-app)
+
 [ML Foundations Stars Dataset Project](https://github.com/GowNanSA/Stars_Dataset_ML_Project)
+
 [My Portfolio Website WIP](https://github.com/GowNanSA/gownansa.github.io)
+
 [Airport Database for School](https://github.com/tonyv21/CS4347-Airport-Database)
+
+</p>
 
 ## 🔭 My Main Languages I Publish Here
 
