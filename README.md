@@ -4,18 +4,24 @@
 
 I am Gowri (She/Her), a current computer science student! I mainly enjoy doing research and learning new things, as well as using computer science in other fields of science and research. Right now, I am experimenting a lot with different projects and work! 
 
-I mostly post my schoolwork and personal code projects here which may be private due to academic stuff, but I am looking forward to sharing more of my publicly available work in the future! 
+I mostly post my schoolwork and personal code projects here which may be private due to academic privacy stuff, but I am looking forward to sharing more of my publicly available work in the future! I have mostly done research and even have a published paper, and I am interested in pursuing more research as well as a variety of software positions. 
 
 
 - 📫 How to reach me: Let's connect on
-![[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowri-nanda100/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowri-nanda100/)
 
 
-## Current Projects 
+## Projects 
 
 <a href="https://github.com/GowNanSA">
     <img src="https://ghchart.rshah.org/GowNanSA" alt="Gowri's GitHub Contribution Chart">
 </a>
+
+[Break Through Tech Axle Informatics Bioinformatics CWL Pipeline Generation](https://github.com/gracwng/LLM-Bioinformatic-Pipeline-Generation/tree/main) 
+[Socket Messaging App](https://github.com/GowNanSA/a-silly-socket-messaging-app)
+[ML Foundations Stars Dataset Project](https://github.com/GowNanSA/Stars_Dataset_ML_Project)
+[My Portfolio Website WIP](https://github.com/GowNanSA/gownansa.github.io)
+[Airport Database for School](https://github.com/tonyv21/CS4347-Airport-Database)
 
 ## 🔭 My Main Languages I Publish Here
 
