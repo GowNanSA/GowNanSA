@@ -4,7 +4,7 @@
 
 I am Gowri (She/Her), a current computer science student! I mainly enjoy doing research and learning new things, as well as using computer science in other fields of science and research. Right now, I am experimenting a lot with different projects and work! 
 
-I mostly post my schoolwork and personal code projects here, but I am looking forward to sharing more of my publicly available work in the future! 
+I mostly post my schoolwork and personal code projects here which may be private due to academic stuff, but I am looking forward to sharing more of my publicly available work in the future! 
 
 
 - 📫 How to reach me: Let's connect on
