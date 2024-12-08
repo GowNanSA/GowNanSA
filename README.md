@@ -8,7 +8,7 @@ I mostly post my schoolwork and personal code projects here which may be private
 
 
 - 📫 How to reach me: Let's connect on
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowri-nanda100/)
+[[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowri-nanda100/)
 
 
 ## Projects 
