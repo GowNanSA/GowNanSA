@@ -9,6 +9,7 @@ I mostly post my schoolwork and personal code projects here which may be private
 
 - 📫 How to reach me: Let's connect on
 ![LinkedIn](https://www.linkedin.com/in/gowri-nanda100/)
+(adfadljalfdj this link be wack) 
 
 
 ## Projects 
