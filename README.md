@@ -7,12 +7,8 @@ I am Gowri (She/Her), a current computer science student! I mainly enjoy doing r
 I mostly post my schoolwork and personal code projects here which may be private due to academic privacy stuff, but I am looking forward to sharing more of my publicly available work in the future! I have mostly done research and even have a published paper, and I am interested in pursuing more research as well as a variety of software positions. 
 
 
-- 📫 How to reach me: Let's connect on
-![LinkedIn](https://www.linkedin.com/in/gowri-nanda100/)
-(adfadljalfdj this link be wack) 
 
-
-## Projects 
+## Projects (some are still in progress, and if you wanna see anything I have that is private, send me a message!) 
 
 <a href="https://github.com/GowNanSA">
     <img src="https://ghchart.rshah.org/GowNanSA" alt="Gowri's GitHub Contribution Chart">
