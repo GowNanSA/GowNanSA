@@ -1,6 +1,6 @@
 ## Greetings Mortals :>
 
-# About Me <3 
+# About Page! 
 
 I am Gowri (She/Her), a current computer science student! I mainly enjoy doing research and learning new things, as well as using computer science in other fields of science and research. Right now, I am experimenting a lot with different projects and work! 
 
