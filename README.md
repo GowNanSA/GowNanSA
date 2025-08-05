@@ -17,7 +17,7 @@ I mostly post my schoolwork, research, and personal code projects here which may
 
 Other Projects: 
 <p></p>
-![Break Through Tech Axle Informatics Bioinformatics CWL Pipeline](https://github.com/gracwng/LLM-Bioinformatic-Pipeline-Generation/tree/main)
+[Break Through Tech Axle Informatics Bioinformatics CWL Pipeline](https://github.com/gracwng/LLM-Bioinformatic-Pipeline-Generation/tree/main)
 
 [Socket Messaging App](https://github.com/GowNanSA/a-silly-socket-messaging-app)
 
