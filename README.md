@@ -19,6 +19,7 @@ Other Projects:
 <p></p>
 
 [Cosmic Descent (a horror video game :D)](https://github.com/GowNanSA/CosmicDescentGameFiles)
+
 Break Through Tech Axle Informatics Bioinformatics CWL Pipeline: https://github.com/gracwng/LLM-Bioinformatic-Pipeline-Generation/tree/main
 
 Break Through Tech Equitable AI for Dermatology: https://github.com/AI-for-Dermatology-Team-Ceramide/Dermatology-AI
