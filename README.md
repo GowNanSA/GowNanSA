@@ -1,8 +1,8 @@
 # Greetings Mortals :>
 
-## Tis I, the Fry, the Sly, the Fly, the Guy, and the Mine, so Bye!  
+## Plutonium is my favorite vegetable! 
 
-# Wait! Come back (actually the about page)
+# The About Page 
 I am Gowri (She/Her), a current computer science student! I mainly enjoy doing research and learning new things, as well as using computer science in other fields of science and research. Right now, I am experimenting a lot with different projects and work! 
 
 I mostly post my schoolwork, research, and personal code projects here which may be private due to academic privacy stuff, but I am looking forward to sharing more of my publicly available work in the future! I have mostly done research and even have a published paper, and I am interested in pursuing more research as well as a variety of software positions. I like working with data and understanding how computer systems can be used in different sciences. I also really like space because space is cool. Feel free to reach out to me on LinkedIn! 
