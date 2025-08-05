@@ -7,6 +7,7 @@ I am Gowri (She/Her), a current computer science student! I mainly enjoy doing r
 
 I mostly post my schoolwork, research, and personal code projects here which may be private due to academic privacy stuff, but I am looking forward to sharing more of my publicly available work in the future! I have mostly done research and even have a published paper, and I am interested in pursuing more research as well as a variety of software positions. I like working with data and understanding how computer systems can be used in different sciences. I also really like space because space is cool. Feel free to reach out to me on LinkedIn! 
 
+Look it is LinkedIn! https://www.linkedin.com/in/gowri-nanda100/
 
 
 ## Projects (some are still in progress, and if you wanna see anything I have that is private, send me a message!) 
