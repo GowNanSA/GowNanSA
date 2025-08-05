@@ -17,7 +17,11 @@ I mostly post my schoolwork, research, and personal code projects here which may
 
 Other Projects: 
 <p></p>
-[Break Through Tech Axle Informatics Bioinformatics CWL Pipeline](https://github.com/gracwng/LLM-Bioinformatic-Pipeline-Generation/tree/main)
+
+[Cosmic Descent (a horror video game :D)](https://github.com/GowNanSA/CosmicDescentGameFiles)
+Break Through Tech Axle Informatics Bioinformatics CWL Pipeline: https://github.com/gracwng/LLM-Bioinformatic-Pipeline-Generation/tree/main
+
+Break Through Tech Equitable AI for Dermatology: https://github.com/AI-for-Dermatology-Team-Ceramide/Dermatology-AI
 
 [Socket Messaging App](https://github.com/GowNanSA/a-silly-socket-messaging-app)
 
@@ -26,6 +30,8 @@ Other Projects:
 [My Portfolio Website WIP](https://github.com/GowNanSA/gownansa.github.io)
 
 [Airport Database for School](https://github.com/tonyv21/CS4347-Airport-Database)
+
+Ask me about my past and current research! Yipee! 
 
 </p>
 
