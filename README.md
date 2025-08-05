@@ -33,7 +33,7 @@ Break Through Tech Equitable AI for Dermatology: https://github.com/AI-for-Derma
 
 [Airport Database for School](https://github.com/tonyv21/CS4347-Airport-Database)
 
-Ask me about my past and current research! Yipee! 
+Ask me about my past and current research or private company projects which I can not openly share the code for! Yipee! 
 
 </p>
 
