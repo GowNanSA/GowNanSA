@@ -16,8 +16,7 @@ Look it is LinkedIn! https://www.linkedin.com/in/gowri-nanda100/
     <img src="https://ghchart.rshah.org/GowNanSA" alt="Gowri's GitHub Contribution Chart">
 </a>
 
-Other Projects: 
-<p></p>
+Wowie it is stuff that I have worked on here and there yay go computer science <p></p>
 
 [Cosmic Descent (a horror video game :D)](https://github.com/GowNanSA/CosmicDescentGameFiles)
 
