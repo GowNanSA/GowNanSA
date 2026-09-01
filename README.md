@@ -7,7 +7,7 @@ I mostly post my schoolwork, research, and personal code projects here which may
 
 Look it is LinkedIn! https://www.linkedin.com/in/gowri-nanda100/
 
-## I borrowed the code to do this from my friend :)
+## must...feed....snek
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake.svg" />
