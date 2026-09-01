@@ -7,6 +7,12 @@ I mostly post my schoolwork, research, and personal code projects here which may
 
 Look it is LinkedIn! https://www.linkedin.com/in/gowri-nanda100/
 
+## I stole the code to do this from my friend :)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ## Projects (some are still in progress, and if you wanna see anything I have that is private, send me a message!) 
 
@@ -82,9 +88,3 @@ Ask me about my past and current research or private company projects which I ca
 
 ![](https://github-profile-trophy.vercel.app/?username=GowNanSA&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-## I stole the code to do this from my friend :)
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
