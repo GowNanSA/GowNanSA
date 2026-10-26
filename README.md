@@ -14,7 +14,7 @@ Look it is LinkedIn! https://www.linkedin.com/in/gowri-nanda100/
   <img alt="github-snake" src="https://github.com/GowNanSA/GowNanSA/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-## Public Projects (The cooler stuff I have is private for reasons, if you wanna see them, send me a message!) 
+## Public Projects (The cooler stuff & research work I have is private for reasons, if you wanna see them, send me a message!) 
 
 <a href="https://github.com/GowNanSA">
     <img src="https://ghchart.rshah.org/GowNanSA" alt="Gowri's GitHub Contribution Chart">
